@@ -1,0 +1,1926 @@
+{
+  "themes": [
+    {
+      "id": "animals",
+      "emoji": "🐾",
+      "name_pl": "Zwierzęta",
+      "name_en": "Animals",
+      "name_zh": "动物",
+      "name_pinyin": "dòngwù",
+      "is_free": true,
+      "display_order": 1
+    },
+    {
+      "id": "nature",
+      "emoji": "🌿",
+      "name_pl": "Przyroda",
+      "name_en": "Nature",
+      "name_zh": "自然",
+      "name_pinyin": "zìrán",
+      "is_free": true,
+      "display_order": 2
+    },
+    {
+      "id": "weather",
+      "emoji": "🌦️",
+      "name_pl": "Pogoda",
+      "name_en": "Weather",
+      "name_zh": "天气",
+      "name_pinyin": "tiānqì",
+      "is_free": true,
+      "display_order": 3
+    },
+    {
+      "id": "food",
+      "emoji": "🍎",
+      "name_pl": "Jedzenie",
+      "name_en": "Food",
+      "name_zh": "食物",
+      "name_pinyin": "shíwù",
+      "is_free": true,
+      "display_order": 4
+    },
+    {
+      "id": "colors",
+      "emoji": "🎨",
+      "name_pl": "Kolory",
+      "name_en": "Colors",
+      "name_zh": "颜色",
+      "name_pinyin": "yánsè",
+      "is_free": false,
+      "display_order": 5
+    },
+    {
+      "id": "home",
+      "emoji": "🏠",
+      "name_pl": "Dom",
+      "name_en": "Home",
+      "name_zh": "家",
+      "name_pinyin": "jiā",
+      "is_free": false,
+      "display_order": 6
+    },
+    {
+      "id": "clothing",
+      "emoji": "👗",
+      "name_pl": "Ubrania",
+      "name_en": "Clothing",
+      "name_zh": "衣服",
+      "name_pinyin": "yīfu",
+      "is_free": false,
+      "display_order": 7
+    },
+    {
+      "id": "vehicles",
+      "emoji": "🚗",
+      "name_pl": "Pojazdy",
+      "name_en": "Vehicles",
+      "name_zh": "车辆",
+      "name_pinyin": "chēliàng",
+      "is_free": false,
+      "display_order": 8
+    },
+    {
+      "id": "objects",
+      "emoji": "🎒",
+      "name_pl": "Przedmioty",
+      "name_en": "Objects",
+      "name_zh": "物品",
+      "name_pinyin": "wùpǐn",
+      "is_free": false,
+      "display_order": 9
+    },
+    {
+      "id": "body",
+      "emoji": "👤",
+      "name_pl": "Ciało",
+      "name_en": "Body",
+      "name_zh": "身体",
+      "name_pinyin": "shēntǐ",
+      "is_free": false,
+      "display_order": 10
+    },
+    {
+      "id": "sports",
+      "emoji": "⚽",
+      "name_pl": "Sport",
+      "name_en": "Sports",
+      "name_zh": "运动",
+      "name_pinyin": "yùndòng",
+      "is_free": false,
+      "display_order": 11
+    },
+    {
+      "id": "feelings",
+      "emoji": "😊",
+      "name_pl": "Emocje",
+      "name_en": "Feelings",
+      "name_zh": "情绪",
+      "name_pinyin": "qíngxù",
+      "is_free": false,
+      "display_order": 12
+    },
+    {
+      "id": "actions",
+      "emoji": "🙋",
+      "name_pl": "Czynności",
+      "name_en": "Actions",
+      "name_zh": "动作",
+      "name_pinyin": "dòngzuò",
+      "is_free": false,
+      "display_order": 13
+    },
+    {
+      "id": "family",
+      "emoji": "👨‍👩‍👧",
+      "name_pl": "Rodzina",
+      "name_en": "Family",
+      "name_zh": "家人",
+      "name_pinyin": "jiārén",
+      "is_free": false,
+      "display_order": 14
+    },
+    {
+      "id": "tableware",
+      "emoji": "🍽️",
+      "name_pl": "Naczynia i sztućce",
+      "name_en": "Tableware",
+      "name_zh": "餐具",
+      "name_pinyin": "cānjù",
+      "is_free": false,
+      "display_order": 15
+    },
+    {
+      "id": "kids_items",
+      "emoji": "🧸",
+      "name_pl": "Akcesoria dziecięce",
+      "name_en": "Baby & Kids Items",
+      "name_zh": "儿童用品",
+      "name_pinyin": "értóng yòngpǐn",
+      "is_free": false,
+      "display_order": 16
+    },
+    {
+      "id": "instruments",
+      "emoji": "🎸",
+      "name_pl": "Instrumenty",
+      "name_en": "Musical Instruments",
+      "name_zh": "乐器",
+      "name_pinyin": "yuèqì",
+      "is_free": false,
+      "display_order": 17
+    },
+    {
+      "id": "furniture",
+      "emoji": "🛋️",
+      "name_pl": "Meble",
+      "name_en": "Furniture",
+      "name_zh": "家具",
+      "name_pinyin": "jiājù",
+      "is_free": false,
+      "display_order": 18
+    },
+    {
+      "id": "hygiene",
+      "emoji": "🧼",
+      "name_pl": "Higiena",
+      "name_en": "Hygiene",
+      "name_zh": "卫生用品",
+      "name_pinyin": "wèishēng yòngpǐn",
+      "is_free": false,
+      "display_order": 19
+    },
+    {
+      "id": "places",
+      "emoji": "🏪",
+      "name_pl": "Miejsca",
+      "name_en": "Places",
+      "name_zh": "场所",
+      "name_pinyin": "chǎngsuǒ",
+      "is_free": false,
+      "display_order": 20
+    }
+  ],
+  "cards": {
+    "animals": [
+      {
+        "id": "animals_000",
+        "theme_id": "animals",
+        "sort_order": 0,
+        "is_cover": true,
+        "is_free": true,
+        "animation_type": "none",
+        "labels": {
+          "pl": "ZWIERZĘTA",
+          "en": "Animals",
+          "zh_char": "动物",
+          "zh_pinyin": "dòngwù"
+        },
+        "image": "images/animals/animals_000.png",
+        "thumb": "images/animals/thumbs/animals_000_thumb.png",
+        "audio": {
+          "pl": "audio/animals/pl_animals_000.mp3",
+          "en": "audio/animals/en_animals_000.mp3",
+          "zh": "audio/animals/zh_animals_000.mp3"
+        }
+      },
+      {
+        "id": "animals_001",
+        "theme_id": "animals",
+        "sort_order": 1,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Pies",
+          "en": "Dog",
+          "zh_char": "狗",
+          "zh_pinyin": "gǒu"
+        },
+        "image": "images/animals/animals_001.png",
+        "thumb": "images/animals/thumbs/animals_001_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_001.mp3",
+          "en": "audio/animals/en_animals_001.mp3",
+          "zh": "audio/animals/zh_animals_001.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_001_in.mp4",
+          "on": "videos/animals/animals_001_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest pies",
+          "en": "This is a dog",
+          "zh_char": "这是一只狗。",
+          "zh_pinyin": "Zhè shì yī zhǐ gǒu.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_001.mp3",
+            "en": "audio/animals/s1_en_animals_001.mp3",
+            "zh": "audio/animals/s1_zh_animals_001.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Pies lubi gryźć kości",
+          "en": "The dog likes to chew bones",
+          "zh_char": "这只狗喜欢啃骨头。",
+          "zh_pinyin": "Zhè zhǐ gǒu xǐhuān kěn gǔtou.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_001.mp3",
+            "en": "audio/animals/s2_en_animals_001.mp3",
+            "zh": "audio/animals/s2_zh_animals_001.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_002",
+        "theme_id": "animals",
+        "sort_order": 2,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Kot",
+          "en": "Cat",
+          "zh_char": "猫",
+          "zh_pinyin": "māo"
+        },
+        "image": "images/animals/animals_002.png",
+        "thumb": "images/animals/thumbs/animals_002_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_002.mp3",
+          "en": "audio/animals/en_animals_002.mp3",
+          "zh": "audio/animals/zh_animals_002.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_002_in.mp4",
+          "on": "videos/animals/animals_002_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest kot",
+          "en": "This is a cat",
+          "zh_char": "这是一只猫。",
+          "zh_pinyin": "Zhè shì yī zhǐ māo.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_002.mp3",
+            "en": "audio/animals/s1_en_animals_002.mp3",
+            "zh": "audio/animals/s1_zh_animals_002.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Kot lubi chować się w tekturowym pudełku",
+          "en": "The cat likes to hide in a cardboard box",
+          "zh_char": "这只猫喜欢躲在纸箱里。",
+          "zh_pinyin": "Zhè zhǐ māo xǐhuān duǒ zài zhǐxiāng lǐ.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_002.mp3",
+            "en": "audio/animals/s2_en_animals_002.mp3",
+            "zh": "audio/animals/s2_zh_animals_002.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_003",
+        "theme_id": "animals",
+        "sort_order": 3,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Świnia",
+          "en": "Pig",
+          "zh_char": "猪",
+          "zh_pinyin": "zhū"
+        },
+        "image": "images/animals/animals_003.png",
+        "thumb": "images/animals/thumbs/animals_003_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_003.mp3",
+          "en": "audio/animals/en_animals_003.mp3",
+          "zh": "audio/animals/zh_animals_003.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_003_in.mp4",
+          "on": "videos/animals/animals_003_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest świnia",
+          "en": "This is a pig",
+          "zh_char": "这是一只猪。",
+          "zh_pinyin": "Zhè shì yī zhǐ zhū.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_003.mp3",
+            "en": "audio/animals/s1_en_animals_003.mp3",
+            "zh": "audio/animals/s1_zh_animals_003.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Świnia ma kręcony ogonek",
+          "en": "The pig has a curly tail",
+          "zh_char": "猪有一条卷卷的尾巴。",
+          "zh_pinyin": "Zhū yǒu yī tiáo juǎnjuǎn de wěiba.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_003.mp3",
+            "en": "audio/animals/s2_en_animals_003.mp3",
+            "zh": "audio/animals/s2_zh_animals_003.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_004",
+        "theme_id": "animals",
+        "sort_order": 4,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Owca",
+          "en": "Sheep",
+          "zh_char": "羊",
+          "zh_pinyin": "yáng"
+        },
+        "image": "images/animals/animals_004.png",
+        "thumb": "images/animals/thumbs/animals_004_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_004.mp3",
+          "en": "audio/animals/en_animals_004.mp3",
+          "zh": "audio/animals/zh_animals_004.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_004_in.mp4",
+          "on": "videos/animals/animals_004_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest owca",
+          "en": "This is a sheep",
+          "zh_char": "这是一只羊。",
+          "zh_pinyin": "Zhè shì yī zhǐ yáng.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_004.mp3",
+            "en": "audio/animals/s1_en_animals_004.mp3",
+            "zh": "audio/animals/s1_zh_animals_004.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Owca ma puszyste futerko",
+          "en": "The sheep has fluffy fur",
+          "zh_char": "羊有蓬松的毛。",
+          "zh_pinyin": "Yáng yǒu péngsōng de máo.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_004.mp3",
+            "en": "audio/animals/s2_en_animals_004.mp3",
+            "zh": "audio/animals/s2_zh_animals_004.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_005",
+        "theme_id": "animals",
+        "sort_order": 5,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Koń",
+          "en": "Horse",
+          "zh_char": "马",
+          "zh_pinyin": "mǎ"
+        },
+        "image": "images/animals/animals_005.png",
+        "thumb": "images/animals/thumbs/animals_005_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_005.mp3",
+          "en": "audio/animals/en_animals_005.mp3",
+          "zh": "audio/animals/zh_animals_005.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_005_in.mp4",
+          "on": "videos/animals/animals_005_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest koń",
+          "en": "This is a horse",
+          "zh_char": "这是一匹马。",
+          "zh_pinyin": "Zhè shì yī pǐ mǎ.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_005.mp3",
+            "en": "audio/animals/s1_en_animals_005.mp3",
+            "zh": "audio/animals/s1_zh_animals_005.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Koń galopuje bardzo szybko",
+          "en": "The horse gallops very fast",
+          "zh_char": "马奔跑得非常快。",
+          "zh_pinyin": "Mǎ bēnpǎo de fēicháng kuài.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_005.mp3",
+            "en": "audio/animals/s2_en_animals_005.mp3",
+            "zh": "audio/animals/s2_zh_animals_005.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_006",
+        "theme_id": "animals",
+        "sort_order": 6,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Krowa",
+          "en": "Cow",
+          "zh_char": "牛",
+          "zh_pinyin": "niú"
+        },
+        "image": "images/animals/animals_006.png",
+        "thumb": "images/animals/thumbs/animals_006_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_006.mp3",
+          "en": "audio/animals/en_animals_006.mp3",
+          "zh": "audio/animals/zh_animals_006.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_006_in.mp4",
+          "on": "videos/animals/animals_006_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest krowa",
+          "en": "This is a cow",
+          "zh_char": "这是一只牛。",
+          "zh_pinyin": "Zhè shì yī zhǐ niú.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_006.mp3",
+            "en": "audio/animals/s1_en_animals_006.mp3",
+            "zh": "audio/animals/s1_zh_animals_006.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Krowa daje mleko",
+          "en": "The cow gives milk",
+          "zh_char": "牛会产牛奶。",
+          "zh_pinyin": "Niú huì chǎn niúnǎi.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_006.mp3",
+            "en": "audio/animals/s2_en_animals_006.mp3",
+            "zh": "audio/animals/s2_zh_animals_006.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_007",
+        "theme_id": "animals",
+        "sort_order": 7,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Ptak",
+          "en": "Bird",
+          "zh_char": "鸟",
+          "zh_pinyin": "niǎo"
+        },
+        "image": "images/animals/animals_007.png",
+        "thumb": "images/animals/thumbs/animals_007_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_007.mp3",
+          "en": "audio/animals/en_animals_007.mp3",
+          "zh": "audio/animals/zh_animals_007.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_007_in.mp4",
+          "on": "videos/animals/animals_007_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest ptak",
+          "en": "This is a bird",
+          "zh_char": "这是一只鸟。",
+          "zh_pinyin": "Zhè shì yī zhǐ niǎo.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_007.mp3",
+            "en": "audio/animals/s1_en_animals_007.mp3",
+            "zh": "audio/animals/s1_zh_animals_007.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Ptaszek fruwa wysoko na niebie",
+          "en": "The little bird flies high in the sky",
+          "zh_char": "小鸟在天空中飞得很高。",
+          "zh_pinyin": "Xiǎo niǎo zài tiānkōng zhōng fēi de hěn gāo.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_007.mp3",
+            "en": "audio/animals/s2_en_animals_007.mp3",
+            "zh": "audio/animals/s2_zh_animals_007.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_008",
+        "theme_id": "animals",
+        "sort_order": 8,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "sway",
+        "labels": {
+          "pl": "Królik",
+          "en": "Rabbit",
+          "zh_char": "兔子",
+          "zh_pinyin": "tùzi"
+        },
+        "image": "images/animals/animals_008.png",
+        "thumb": "images/animals/thumbs/animals_008_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_008.mp3",
+          "en": "audio/animals/en_animals_008.mp3",
+          "zh": "audio/animals/zh_animals_008.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_008_in.mp4",
+          "on": "videos/animals/animals_008_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest królik",
+          "en": "This is a rabbit",
+          "zh_char": "这是一只兔子。",
+          "zh_pinyin": "Zhè shì yī zhǐ tùzi.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_008.mp3",
+            "en": "audio/animals/s1_en_animals_008.mp3",
+            "zh": "audio/animals/s1_zh_animals_008.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Królik ma długie uszy",
+          "en": "The rabbit has long ears",
+          "zh_char": "兔子有长长的耳朵。",
+          "zh_pinyin": "Tùzi yǒu chángcháng de ěrduo.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_008.mp3",
+            "en": "audio/animals/s2_en_animals_008.mp3",
+            "zh": "audio/animals/s2_zh_animals_008.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_009",
+        "theme_id": "animals",
+        "sort_order": 9,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Kaczka",
+          "en": "Duck",
+          "zh_char": "鸭子",
+          "zh_pinyin": "yāzi"
+        },
+        "image": "images/animals/animals_009.png",
+        "thumb": "images/animals/thumbs/animals_009_thumb.png",
+        "video_in": true,
+        "video_on": true,
+        "audio": {
+          "pl": "audio/animals/pl_animals_009.mp3",
+          "en": "audio/animals/en_animals_009.mp3",
+          "zh": "audio/animals/zh_animals_009.mp3"
+        },
+        "video": {
+          "in": "videos/animals/animals_009_in.mp4",
+          "on": "videos/animals/animals_009_on.mp4"
+        },
+        "sentence_1": {
+          "pl": "To jest kaczka",
+          "en": "This is a duck",
+          "zh_char": "这是一只鸭子。",
+          "zh_pinyin": "Zhè shì yī zhǐ yāzi.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_009.mp3",
+            "en": "audio/animals/s1_en_animals_009.mp3",
+            "zh": "audio/animals/s1_zh_animals_009.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Kaczka lubi pływać po stawie",
+          "en": "The duck likes to swim in the pond",
+          "zh_char": "鸭子喜欢在池塘里游泳。",
+          "zh_pinyin": "Yāzi xǐhuān zài chítáng lǐ yóuyǒng.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_009.mp3",
+            "en": "audio/animals/s2_en_animals_009.mp3",
+            "zh": "audio/animals/s2_zh_animals_009.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_010",
+        "theme_id": "animals",
+        "sort_order": 10,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Kura",
+          "en": "Chicken",
+          "zh_char": "鸡",
+          "zh_pinyin": "jī"
+        },
+        "image": "images/animals/animals_010.png",
+        "thumb": "images/animals/thumbs/animals_010_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_010.mp3",
+          "en": "audio/animals/en_animals_010.mp3",
+          "zh": "audio/animals/zh_animals_010.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest kura",
+          "en": "This is a chicken",
+          "zh_char": "这是一只鸡。",
+          "zh_pinyin": "Zhè shì yī zhǐ jī.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_010.mp3",
+            "en": "audio/animals/s1_en_animals_010.mp3",
+            "zh": "audio/animals/s1_zh_animals_010.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Kura lubi dziobać ziarenka",
+          "en": "The chicken likes to peck grains",
+          "zh_char": "鸡喜欢啄食谷粒。",
+          "zh_pinyin": "Jī xǐhuān zhuó shí gǔlì.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_010.mp3",
+            "en": "audio/animals/s2_en_animals_010.mp3",
+            "zh": "audio/animals/s2_zh_animals_010.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_011",
+        "theme_id": "animals",
+        "sort_order": 11,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Żaba",
+          "en": "Frog",
+          "zh_char": "青蛙",
+          "zh_pinyin": "qīngwā"
+        },
+        "image": "images/animals/animals_011.png",
+        "thumb": "images/animals/thumbs/animals_011_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_011.mp3",
+          "en": "audio/animals/en_animals_011.mp3",
+          "zh": "audio/animals/zh_animals_011.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest żaba",
+          "en": "This is a frog",
+          "zh_char": "这是一只青蛙。",
+          "zh_pinyin": "Zhè shì yī zhǐ qīngwā.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_011.mp3",
+            "en": "audio/animals/s1_en_animals_011.mp3",
+            "zh": "audio/animals/s1_zh_animals_011.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Żaba łapie muchy długim językiem",
+          "en": "The frog catches flies with its long tongue",
+          "zh_char": "青蛙用长长的舌头捉苍蝇。",
+          "zh_pinyin": "Qīngwā yòng chángcháng de shétou zhuō cāngying.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_011.mp3",
+            "en": "audio/animals/s2_en_animals_011.mp3",
+            "zh": "audio/animals/s2_zh_animals_011.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_012",
+        "theme_id": "animals",
+        "sort_order": 12,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "sway",
+        "labels": {
+          "pl": "Ryba",
+          "en": "Fish",
+          "zh_char": "鱼",
+          "zh_pinyin": "yú"
+        },
+        "image": "images/animals/animals_012.png",
+        "thumb": "images/animals/thumbs/animals_012_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_012.mp3",
+          "en": "audio/animals/en_animals_012.mp3",
+          "zh": "audio/animals/zh_animals_012.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest ryba",
+          "en": "This is a fish",
+          "zh_char": "这是一条鱼。",
+          "zh_pinyin": "Zhè shì yī tiáo yú.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_012.mp3",
+            "en": "audio/animals/s1_en_animals_012.mp3",
+            "zh": "audio/animals/s1_zh_animals_012.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Ryba pływa w wodzie.",
+          "en": "The fish swims in the water",
+          "zh_char": "鱼在水里游。",
+          "zh_pinyin": "Yú zài shuǐ lǐ yóu.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_012.mp3",
+            "en": "audio/animals/s2_en_animals_012.mp3",
+            "zh": "audio/animals/s2_zh_animals_012.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_013",
+        "theme_id": "animals",
+        "sort_order": 13,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Lew",
+          "en": "Lion",
+          "zh_char": "狮子",
+          "zh_pinyin": "shīzi"
+        },
+        "image": "images/animals/animals_013.png",
+        "thumb": "images/animals/thumbs/animals_013_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_013.mp3",
+          "en": "audio/animals/en_animals_013.mp3",
+          "zh": "audio/animals/zh_animals_013.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest lew",
+          "en": "This is a lion",
+          "zh_char": "这是一只狮子。",
+          "zh_pinyin": "Zhè shì yī zhǐ shīzi.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_013.mp3",
+            "en": "audio/animals/s1_en_animals_013.mp3",
+            "zh": "audio/animals/s1_zh_animals_013.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Lew ma dużą grzywę",
+          "en": "The lion has a big mane",
+          "zh_char": "狮子有一个大鬃毛。",
+          "zh_pinyin": "Shīzi yǒu yī gè dà zōngmáo.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_013.mp3",
+            "en": "audio/animals/s2_en_animals_013.mp3",
+            "zh": "audio/animals/s2_zh_animals_013.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_014",
+        "theme_id": "animals",
+        "sort_order": 14,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Słoń",
+          "en": "Elephant",
+          "zh_char": "大象",
+          "zh_pinyin": "dàxiàng"
+        },
+        "image": "images/animals/animals_014.png",
+        "thumb": "images/animals/thumbs/animals_014_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_014.mp3",
+          "en": "audio/animals/en_animals_014.mp3",
+          "zh": "audio/animals/zh_animals_014.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest słoń",
+          "en": "This is an elephant",
+          "zh_char": "这是一只大象。",
+          "zh_pinyin": "Zhè shì yī zhǐ dàxiàng.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_014.mp3",
+            "en": "audio/animals/s1_en_animals_014.mp3",
+            "zh": "audio/animals/s1_zh_animals_014.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Słoń ma długą trąbę",
+          "en": "The elephant has a long trunk",
+          "zh_char": "大象有一条长长的鼻子。",
+          "zh_pinyin": "Dàxiàng yǒu yī tiáo chángcháng de bízi.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_014.mp3",
+            "en": "audio/animals/s2_en_animals_014.mp3",
+            "zh": "audio/animals/s2_zh_animals_014.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_015",
+        "theme_id": "animals",
+        "sort_order": 15,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Zebra",
+          "en": "Zebra",
+          "zh_char": "斑马",
+          "zh_pinyin": "bānmǎ"
+        },
+        "image": "images/animals/animals_015.png",
+        "thumb": "images/animals/thumbs/animals_015_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_015.mp3",
+          "en": "audio/animals/en_animals_015.mp3",
+          "zh": "audio/animals/zh_animals_015.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest zebra",
+          "en": "This is a zebra",
+          "zh_char": "这是一只斑马。",
+          "zh_pinyin": "Zhè shì yī zhǐ bānmǎ.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_015.mp3",
+            "en": "audio/animals/s1_en_animals_015.mp3",
+            "zh": "audio/animals/s1_zh_animals_015.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Zebra ma czarno-białe paski",
+          "en": "The zebra has black and white stripes",
+          "zh_char": "斑马身上有黑白条纹。",
+          "zh_pinyin": "Bānmǎ shēn shang yǒu hēibái tiáowén.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_015.mp3",
+            "en": "audio/animals/s2_en_animals_015.mp3",
+            "zh": "audio/animals/s2_zh_animals_015.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_016",
+        "theme_id": "animals",
+        "sort_order": 16,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Niedźwiedź",
+          "en": "Bear",
+          "zh_char": "熊",
+          "zh_pinyin": "xióng"
+        },
+        "image": "images/animals/animals_016.png",
+        "thumb": "images/animals/thumbs/animals_016_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_016.mp3",
+          "en": "audio/animals/en_animals_016.mp3",
+          "zh": "audio/animals/zh_animals_016.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest niedźwiedź",
+          "en": "This is a bear",
+          "zh_char": "这是一只熊。",
+          "zh_pinyin": "Zhè shì yī zhǐ xióng.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_016.mp3",
+            "en": "audio/animals/s1_en_animals_016.mp3",
+            "zh": "audio/animals/s1_zh_animals_016.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Niedźwiedź lubi jeść miód",
+          "en": "The bear likes to eat honey",
+          "zh_char": "熊喜欢吃蜂蜜。",
+          "zh_pinyin": "Xióng xǐhuān chī fēngmì.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_016.mp3",
+            "en": "audio/animals/s2_en_animals_016.mp3",
+            "zh": "audio/animals/s2_zh_animals_016.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_017",
+        "theme_id": "animals",
+        "sort_order": 17,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "sway",
+        "labels": {
+          "pl": "Jeleń",
+          "en": "Deer",
+          "zh_char": "鹿",
+          "zh_pinyin": "lù"
+        },
+        "image": "images/animals/animals_017.png",
+        "thumb": "images/animals/thumbs/animals_017_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_017.mp3",
+          "en": "audio/animals/en_animals_017.mp3",
+          "zh": "audio/animals/zh_animals_017.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest jeleń",
+          "en": "This is a deer",
+          "zh_char": "这是一只鹿。",
+          "zh_pinyin": "Zhè shì yī zhǐ lù.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_017.mp3",
+            "en": "audio/animals/s1_en_animals_017.mp3",
+            "zh": "audio/animals/s1_zh_animals_017.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Jeleń ma duże poroże",
+          "en": "The deer has big antlers",
+          "zh_char": "鹿有一对大鹿角。",
+          "zh_pinyin": "Lù yǒu yī duì dà lùjiǎo.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_017.mp3",
+            "en": "audio/animals/s2_en_animals_017.mp3",
+            "zh": "audio/animals/s2_zh_animals_017.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_018",
+        "theme_id": "animals",
+        "sort_order": 18,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Tygrys",
+          "en": "Tiger",
+          "zh_char": "老虎",
+          "zh_pinyin": "lǎohǔ"
+        },
+        "image": "images/animals/animals_018.png",
+        "thumb": "images/animals/thumbs/animals_018_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_018.mp3",
+          "en": "audio/animals/en_animals_018.mp3",
+          "zh": "audio/animals/zh_animals_018.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest tygrys",
+          "en": "This is a tiger",
+          "zh_char": "这是一只老虎。",
+          "zh_pinyin": "Zhè shì yī zhǐ lǎohǔ.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_018.mp3",
+            "en": "audio/animals/s1_en_animals_018.mp3",
+            "zh": "audio/animals/s1_zh_animals_018.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Tygrys cicho skrada się przez dżunglę",
+          "en": "The tiger sneaks quietly through the jungle",
+          "zh_char": "老虎悄悄地穿过丛林。",
+          "zh_pinyin": "Lǎohǔ qiāoqiāo de chuānguò cónglín.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_018.mp3",
+            "en": "audio/animals/s2_en_animals_018.mp3",
+            "zh": "audio/animals/s2_zh_animals_018.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_019",
+        "theme_id": "animals",
+        "sort_order": 19,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Panda",
+          "en": "Panda",
+          "zh_char": "熊猫",
+          "zh_pinyin": "xióngmāo"
+        },
+        "image": "images/animals/animals_019.png",
+        "thumb": "images/animals/thumbs/animals_019_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_019.mp3",
+          "en": "audio/animals/en_animals_019.mp3",
+          "zh": "audio/animals/zh_animals_019.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest panda",
+          "en": "This is a panda",
+          "zh_char": "这是一只熊猫。",
+          "zh_pinyin": "Zhè shì yī zhǐ xióngmāo.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_019.mp3",
+            "en": "audio/animals/s1_en_animals_019.mp3",
+            "zh": "audio/animals/s1_zh_animals_019.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Panda lubi drzemać",
+          "en": "The panda likes to nap",
+          "zh_char": "熊猫喜欢打瞌睡。",
+          "zh_pinyin": "Xióngmāo xǐhuān dǎ kēshuì.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_019.mp3",
+            "en": "audio/animals/s2_en_animals_019.mp3",
+            "zh": "audio/animals/s2_zh_animals_019.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_020",
+        "theme_id": "animals",
+        "sort_order": 20,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Małpa",
+          "en": "Monkey",
+          "zh_char": "猴子",
+          "zh_pinyin": "hóuzi"
+        },
+        "image": "images/animals/animals_020.png",
+        "thumb": "images/animals/thumbs/animals_020_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_020.mp3",
+          "en": "audio/animals/en_animals_020.mp3",
+          "zh": "audio/animals/zh_animals_020.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest małpa",
+          "en": "This is a monkey",
+          "zh_char": "这是一只猴子。",
+          "zh_pinyin": "Zhè shì yī zhǐ hóuzi.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_020.mp3",
+            "en": "audio/animals/s1_en_animals_020.mp3",
+            "zh": "audio/animals/s1_zh_animals_020.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Małpa lubi jeść banany",
+          "en": "The monkey likes to eat bananas",
+          "zh_char": "猴子喜欢吃香蕉。",
+          "zh_pinyin": "Hóuzi xǐhuān chī xiāngjiāo.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_020.mp3",
+            "en": "audio/animals/s2_en_animals_020.mp3",
+            "zh": "audio/animals/s2_zh_animals_020.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_021",
+        "theme_id": "animals",
+        "sort_order": 21,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Sowa",
+          "en": "Owl",
+          "zh_char": "猫头鹰",
+          "zh_pinyin": "māotóuyīng"
+        },
+        "image": "images/animals/animals_021.png",
+        "thumb": "images/animals/thumbs/animals_021_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_021.mp3",
+          "en": "audio/animals/en_animals_021.mp3",
+          "zh": "audio/animals/zh_animals_021.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest sowa",
+          "en": "This is an owl",
+          "zh_char": "这是一只猫头鹰。",
+          "zh_pinyin": "Zhè shì yī zhǐ māotóuyīng.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_021.mp3",
+            "en": "audio/animals/s1_en_animals_021.mp3",
+            "zh": "audio/animals/s1_zh_animals_021.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Sowa lubi latać nocą",
+          "en": "The owl likes to fly at night",
+          "zh_char": "猫头鹰喜欢在夜里飞行。",
+          "zh_pinyin": "Māotóuyīng xǐhuān zài yèlǐ fēixíng.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_021.mp3",
+            "en": "audio/animals/s2_en_animals_021.mp3",
+            "zh": "audio/animals/s2_zh_animals_021.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_022",
+        "theme_id": "animals",
+        "sort_order": 22,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "sway",
+        "labels": {
+          "pl": "Żyrafa",
+          "en": "Giraffe",
+          "zh_char": "长颈鹿",
+          "zh_pinyin": "chángjǐnglù"
+        },
+        "image": "images/animals/animals_022.png",
+        "thumb": "images/animals/thumbs/animals_022_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_022.mp3",
+          "en": "audio/animals/en_animals_022.mp3",
+          "zh": "audio/animals/zh_animals_022.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest żyrafa",
+          "en": "This is a giraffe",
+          "zh_char": "这是一只长颈鹿。",
+          "zh_pinyin": "Zhè shì yī zhǐ chángjǐnglù.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_022.mp3",
+            "en": "audio/animals/s1_en_animals_022.mp3",
+            "zh": "audio/animals/s1_zh_animals_022.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Żyrafa ma długą szyję",
+          "en": "The giraffe has a long neck",
+          "zh_char": "长颈鹿有一条长长的脖子。",
+          "zh_pinyin": "Chángjǐnglù yǒu yī tiáo chángcháng de bózi.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_022.mp3",
+            "en": "audio/animals/s2_en_animals_022.mp3",
+            "zh": "audio/animals/s2_zh_animals_022.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_023",
+        "theme_id": "animals",
+        "sort_order": 23,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Motyl",
+          "en": "Butterfly",
+          "zh_char": "蝴蝶",
+          "zh_pinyin": "húdié"
+        },
+        "image": "images/animals/animals_023.png",
+        "thumb": "images/animals/thumbs/animals_023_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_023.mp3",
+          "en": "audio/animals/en_animals_023.mp3",
+          "zh": "audio/animals/zh_animals_023.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest motyl",
+          "en": "This is a butterfly",
+          "zh_char": "这是一只蝴蝶。",
+          "zh_pinyin": "Zhè shì yī zhǐ húdié.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_023.mp3",
+            "en": "audio/animals/s1_en_animals_023.mp3",
+            "zh": "audio/animals/s1_zh_animals_023.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Motyl ma kolorowe skrzydła",
+          "en": "The butterfly has colorful wings",
+          "zh_char": "蝴蝶有色彩斑斓的翅膀。",
+          "zh_pinyin": "Húdié yǒu sècǎi bānlán de chìbǎng.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_023.mp3",
+            "en": "audio/animals/s2_en_animals_023.mp3",
+            "zh": "audio/animals/s2_zh_animals_023.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_024",
+        "theme_id": "animals",
+        "sort_order": 24,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Ważka",
+          "en": "Dragonfly",
+          "zh_char": "蜻蜓",
+          "zh_pinyin": "qīngtíng"
+        },
+        "image": "images/animals/animals_024.png",
+        "thumb": "images/animals/thumbs/animals_024_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_024.mp3",
+          "en": "audio/animals/en_animals_024.mp3",
+          "zh": "audio/animals/zh_animals_024.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest ważka",
+          "en": "This is a dragonfly",
+          "zh_char": "这是一只蜻蜓。",
+          "zh_pinyin": "Zhè shì yī zhǐ qīngtíng.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_024.mp3",
+            "en": "audio/animals/s1_en_animals_024.mp3",
+            "zh": "audio/animals/s1_zh_animals_024.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Ważka szybko lata nad wodą",
+          "en": "The dragonfly flies quickly over the water",
+          "zh_char": "蜻蜓在水面上快速飞行。",
+          "zh_pinyin": "Qīngtíng zài shuǐmiàn shàng kuàisù fēixíng.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_024.mp3",
+            "en": "audio/animals/s2_en_animals_024.mp3",
+            "zh": "audio/animals/s2_zh_animals_024.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_025",
+        "theme_id": "animals",
+        "sort_order": 25,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "sway",
+        "labels": {
+          "pl": "Bocian",
+          "en": "Stork",
+          "zh_char": "鹳",
+          "zh_pinyin": "guàn"
+        },
+        "image": "images/animals/animals_025.png",
+        "thumb": "images/animals/thumbs/animals_025_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_025.mp3",
+          "en": "audio/animals/en_animals_025.mp3",
+          "zh": "audio/animals/zh_animals_025.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest bocian",
+          "en": "This is a stork",
+          "zh_char": "这是一只鹳。",
+          "zh_pinyin": "Zhè shì yī zhǐ guàn.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_025.mp3",
+            "en": "audio/animals/s1_en_animals_025.mp3",
+            "zh": "audio/animals/s1_zh_animals_025.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Bocian szuka żab na polu",
+          "en": "The stork looks for frogs in the field",
+          "zh_char": "鹳在田野里寻找青蛙。",
+          "zh_pinyin": "Guàn zài tiányě lǐ xúnzhǎo qīngwā.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_025.mp3",
+            "en": "audio/animals/s2_en_animals_025.mp3",
+            "zh": "audio/animals/s2_zh_animals_025.mp3"
+          }
+        }
+      },
+      {
+        "id": "animals_026",
+        "theme_id": "animals",
+        "sort_order": 26,
+        "is_cover": false,
+        "is_free": false,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Pszczoła",
+          "en": "Bee",
+          "zh_char": "蜜蜂",
+          "zh_pinyin": "mìfēng"
+        },
+        "image": "images/animals/animals_026.png",
+        "thumb": "images/animals/thumbs/animals_026_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/animals/pl_animals_026.mp3",
+          "en": "audio/animals/en_animals_026.mp3",
+          "zh": "audio/animals/zh_animals_026.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest pszczoła",
+          "en": "This is a bee",
+          "zh_char": "这是一只蜜蜂。",
+          "zh_pinyin": "Zhè shì yī zhǐ mìfēng.",
+          "audio": {
+            "pl": "audio/animals/s1_pl_animals_026.mp3",
+            "en": "audio/animals/s1_en_animals_026.mp3",
+            "zh": "audio/animals/s1_zh_animals_026.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Pszczoła zbiera nektar z kwiatów",
+          "en": "The bee collects nectar from flowers",
+          "zh_char": "蜜蜂从花朵中采集花蜜。",
+          "zh_pinyin": "Mìfēng cóng huāduǒ zhōng cǎijí huāmì.",
+          "audio": {
+            "pl": "audio/animals/s2_pl_animals_026.mp3",
+            "en": "audio/animals/s2_en_animals_026.mp3",
+            "zh": "audio/animals/s2_zh_animals_026.mp3"
+          }
+        }
+      }
+    ],
+    "nature": [
+      {
+        "id": "nature_000",
+        "theme_id": "nature",
+        "sort_order": 0,
+        "is_cover": true,
+        "is_free": true,
+        "animation_type": "none",
+        "labels": {
+          "pl": "PRZYRODA",
+          "en": "Nature",
+          "zh_char": "自然",
+          "zh_pinyin": "zìrán"
+        },
+        "image": "images/nature/nature_000.png",
+        "thumb": "images/nature/thumbs/nature_000_thumb.png",
+        "audio": {
+          "pl": "audio/nature/pl_nature_000.mp3",
+          "en": "audio/nature/en_nature_000.mp3",
+          "zh": "audio/nature/zh_nature_000.mp3"
+        }
+      },
+      {
+        "id": "nature_001",
+        "theme_id": "nature",
+        "sort_order": 1,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Kwiatek",
+          "en": "Flower",
+          "zh_char": "花",
+          "zh_pinyin": "huā"
+        },
+        "image": "images/nature/nature_001.png",
+        "thumb": "images/nature/thumbs/nature_001_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_001.mp3",
+          "en": "audio/nature/en_nature_001.mp3",
+          "zh": "audio/nature/zh_nature_001.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest kwiatek",
+          "en": "This is a flower",
+          "zh_char": "这是一朵花。",
+          "zh_pinyin": "Zhè shì yī duǒ huā.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_001.mp3",
+            "en": "audio/nature/s1_en_nature_001.mp3",
+            "zh": "audio/nature/s1_zh_nature_001.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Kwiatek pięknie pachnie",
+          "en": "The flower smells beautiful",
+          "zh_char": "花儿散发出美丽的香气。",
+          "zh_pinyin": "Huāér sànfā chū měilì de xiāngqì.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_001.mp3",
+            "en": "audio/nature/s2_en_nature_001.mp3",
+            "zh": "audio/nature/s2_zh_nature_001.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_002",
+        "theme_id": "nature",
+        "sort_order": 2,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Trawa",
+          "en": "Grass",
+          "zh_char": "草",
+          "zh_pinyin": "cǎo"
+        },
+        "image": "images/nature/nature_002.png",
+        "thumb": "images/nature/thumbs/nature_002_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_002.mp3",
+          "en": "audio/nature/en_nature_002.mp3",
+          "zh": "audio/nature/zh_nature_002.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest trawa",
+          "en": "This is grass",
+          "zh_char": "这是草。",
+          "zh_pinyin": "Zhè shì cǎo.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_002.mp3",
+            "en": "audio/nature/s1_en_nature_002.mp3",
+            "zh": "audio/nature/s1_zh_nature_002.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Trawa jest zielona",
+          "en": "The grass is green",
+          "zh_char": "草是绿色的。",
+          "zh_pinyin": "Cǎo shì lǜsè de.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_002.mp3",
+            "en": "audio/nature/s2_en_nature_002.mp3",
+            "zh": "audio/nature/s2_zh_nature_002.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_003",
+        "theme_id": "nature",
+        "sort_order": 3,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Liść",
+          "en": "Leaf",
+          "zh_char": "叶子",
+          "zh_pinyin": "yèzi"
+        },
+        "image": "images/nature/nature_003.png",
+        "thumb": "images/nature/thumbs/nature_003_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_003.mp3",
+          "en": "audio/nature/en_nature_003.mp3",
+          "zh": "audio/nature/zh_nature_003.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest liść",
+          "en": "This is a leaf",
+          "zh_char": "这是一片叶子。",
+          "zh_pinyin": "Zhè shì yī piàn yèzi.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_003.mp3",
+            "en": "audio/nature/s1_en_nature_003.mp3",
+            "zh": "audio/nature/s1_zh_nature_003.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Liść zdobi gałęzie drzewa",
+          "en": "The leaf decorates the tree branches",
+          "zh_char": "叶子装饰着树枝。",
+          "zh_pinyin": "Yèzi zhuāngshì zhe shùzhī.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_003.mp3",
+            "en": "audio/nature/s2_en_nature_003.mp3",
+            "zh": "audio/nature/s2_zh_nature_003.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_004",
+        "theme_id": "nature",
+        "sort_order": 4,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Drzewo",
+          "en": "Tree",
+          "zh_char": "树",
+          "zh_pinyin": "shù"
+        },
+        "image": "images/nature/nature_004.png",
+        "thumb": "images/nature/thumbs/nature_004_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_004.mp3",
+          "en": "audio/nature/en_nature_004.mp3",
+          "zh": "audio/nature/zh_nature_004.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest drzewo",
+          "en": "This is a tree",
+          "zh_char": "这是一棵树。",
+          "zh_pinyin": "Zhè shì yī kē shù.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_004.mp3",
+            "en": "audio/nature/s1_en_nature_004.mp3",
+            "zh": "audio/nature/s1_zh_nature_004.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Drzewo daje cień w upalny dzień",
+          "en": "The tree gives shade on a hot day",
+          "zh_char": "树在炎热的日子里提供阴凉。",
+          "zh_pinyin": "Shù zài yánrè de rìzi lǐ tígōng yīnliáng.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_004.mp3",
+            "en": "audio/nature/s2_en_nature_004.mp3",
+            "zh": "audio/nature/s2_zh_nature_004.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_005",
+        "theme_id": "nature",
+        "sort_order": 5,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Las",
+          "en": "Forest",
+          "zh_char": "森林",
+          "zh_pinyin": "sēnlín"
+        },
+        "image": "images/nature/nature_005.png",
+        "thumb": "images/nature/thumbs/nature_005_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_005.mp3",
+          "en": "audio/nature/en_nature_005.mp3",
+          "zh": "audio/nature/zh_nature_005.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest las",
+          "en": "This is a forest",
+          "zh_char": "这是一座森林。",
+          "zh_pinyin": "Zhè shì yī zuò sēnlín.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_005.mp3",
+            "en": "audio/nature/s1_en_nature_005.mp3",
+            "zh": "audio/nature/s1_zh_nature_005.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Las jest domem dla wielu zwierząt",
+          "en": "The forest is home to many animals",
+          "zh_char": "森林是许多动物的家。",
+          "zh_pinyin": "Sēnlín shì xǔduō dòngwù de jiā.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_005.mp3",
+            "en": "audio/nature/s2_en_nature_005.mp3",
+            "zh": "audio/nature/s2_zh_nature_005.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_006",
+        "theme_id": "nature",
+        "sort_order": 6,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Łąka kwiatowa",
+          "en": "Flower meadow",
+          "zh_char": "花田",
+          "zh_pinyin": "huātián"
+        },
+        "image": "images/nature/nature_006.png",
+        "thumb": "images/nature/thumbs/nature_006_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_006.mp3",
+          "en": "audio/nature/en_nature_006.mp3",
+          "zh": "audio/nature/zh_nature_006.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest łąka kwiatowa",
+          "en": "This is a flower meadow",
+          "zh_char": "这是一片花田。",
+          "zh_pinyin": "Zhè shì yī piàn huātián.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_006.mp3",
+            "en": "audio/nature/s1_en_nature_006.mp3",
+            "zh": "audio/nature/s1_zh_nature_006.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Łąka kwiatowa pełna jest kolorowych kwiatów",
+          "en": "The flower meadow is full of colorful flowers",
+          "zh_char": "花田里开满了五颜六色的花。",
+          "zh_pinyin": "Huātián lǐ kāi mǎn le wǔyánliùsè de huā.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_006.mp3",
+            "en": "audio/nature/s2_en_nature_006.mp3",
+            "zh": "audio/nature/s2_zh_nature_006.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_007",
+        "theme_id": "nature",
+        "sort_order": 7,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Rzeka",
+          "en": "River",
+          "zh_char": "河流",
+          "zh_pinyin": "héliú"
+        },
+        "image": "images/nature/nature_007.png",
+        "thumb": "images/nature/thumbs/nature_007_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_007.mp3",
+          "en": "audio/nature/en_nature_007.mp3",
+          "zh": "audio/nature/zh_nature_007.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest rzeka",
+          "en": "This is a river",
+          "zh_char": "这是一条河流。",
+          "zh_pinyin": "Zhè shì yī tiáo héliú.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_007.mp3",
+            "en": "audio/nature/s1_en_nature_007.mp3",
+            "zh": "audio/nature/s1_zh_nature_007.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Rzeka niesie wodę do morza.",
+          "en": "The river carries water to the sea",
+          "zh_char": "河流把水带到大海。",
+          "zh_pinyin": "Héliú bǎ shuǐ dài dào dàhǎi.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_007.mp3",
+            "en": "audio/nature/s2_en_nature_007.mp3",
+            "zh": "audio/nature/s2_zh_nature_007.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_008",
+        "theme_id": "nature",
+        "sort_order": 8,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Staw",
+          "en": "Pond",
+          "zh_char": "池塘",
+          "zh_pinyin": "chítáng"
+        },
+        "image": "images/nature/nature_008.png",
+        "thumb": "images/nature/thumbs/nature_008_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_008.mp3",
+          "en": "audio/nature/en_nature_008.mp3",
+          "zh": "audio/nature/zh_nature_008.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest staw",
+          "en": "This is a pond",
+          "zh_char": "这是一个池塘。",
+          "zh_pinyin": "Zhè shì yī gè chítáng.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_008.mp3",
+            "en": "audio/nature/s1_en_nature_008.mp3",
+            "zh": "audio/nature/s1_zh_nature_008.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Staw jest pełen ryb",
+          "en": "The pond is full of fish",
+          "zh_char": "池塘里满是鱼。",
+          "zh_pinyin": "Chítáng lǐ mǎn shì yú.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_008.mp3",
+            "en": "audio/nature/s2_en_nature_008.mp3",
+            "zh": "audio/nature/s2_zh_nature_008.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_009",
+        "theme_id": "nature",
+        "sort_order": 9,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "bounce",
+        "labels": {
+          "pl": "Morze",
+          "en": "Sea",
+          "zh_char": "大海",
+          "zh_pinyin": "dàhǎi"
+        },
+        "image": "images/nature/nature_009.png",
+        "thumb": "images/nature/thumbs/nature_009_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_009.mp3",
+          "en": "audio/nature/en_nature_009.mp3",
+          "zh": "audio/nature/zh_nature_009.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest morze",
+          "en": "This is the sea",
+          "zh_char": "这是大海。",
+          "zh_pinyin": "Zhè shì dàhǎi.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_009.mp3",
+            "en": "audio/nature/s1_en_nature_009.mp3",
+            "zh": "audio/nature/s1_zh_nature_009.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Morze ma słoną wodę",
+          "en": "The sea has salty water",
+          "zh_char": "大海的水是咸的。",
+          "zh_pinyin": "Dàhǎi de shuǐ shì xián de.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_009.mp3",
+            "en": "audio/nature/s2_en_nature_009.mp3",
+            "zh": "audio/nature/s2_zh_nature_009.mp3"
+          }
+        }
+      },
+      {
+        "id": "nature_010",
+        "theme_id": "nature",
+        "sort_order": 10,
+        "is_cover": false,
+        "is_free": true,
+        "animation_type": "float",
+        "labels": {
+          "pl": "Pustynia",
+          "en": "Desert",
+          "zh_char": "沙漠",
+          "zh_pinyin": "shāmò"
+        },
+        "image": "images/nature/nature_010.png",
+        "thumb": "images/nature/thumbs/nature_010_thumb.png",
+        "video_in": false,
+        "video_on": false,
+        "audio": {
+          "pl": "audio/nature/pl_nature_010.mp3",
+          "en": "audio/nature/en_nature_010.mp3",
+          "zh": "audio/nature/zh_nature_010.mp3"
+        },
+        "sentence_1": {
+          "pl": "To jest pustynia",
+          "en": "This is a desert",
+          "zh_char": "这是一片沙漠。",
+          "zh_pinyin": "Zhè shì yī piàn shāmò.",
+          "audio": {
+            "pl": "audio/nature/s1_pl_nature_010.mp3",
+            "en": "audio/nature/s1_en_nature_010.mp3",
+            "zh": "audio/nature/s1_zh_nature_010.mp3"
+          }
+        },
+        "sentence_2": {
+          "pl": "Pustynia ma wysokie wydmy",
+          "en": "The desert has tall dunes",
+          "zh_char": "沙漠里有高高的沙丘。",
+          "zh_pinyin": "Shāmò lǐ yǒu gāogāo de shāqiū.",
+          "audio": {
+            "pl": "audio/nature/s2_pl_nature_010.mp3",
+            "en": "audio/nature/s2_en_nature_010.mp3",
+            "zh": "audio/nature/s2_zh_nature_010.mp3"
+          }
+        }
+      }
+    ],
+    "weather": [],
+    "food": [],
+    "colors": [],
+    "home": [],
+    "clothing": [],
+    "vehicles": [],
+    "objects": [],
+    "body": [],
+    "sports": [],
+    "feelings": [],
+    "actions": [],
+    "family": [],
+    "tableware": [],
+    "kids_items": [],
+    "instruments": [],
+    "furniture": [],
+    "hygiene": [],
+    "places": []
+  }
+}
