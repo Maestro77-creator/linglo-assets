@@ -678,7 +678,12 @@
           "zh_char": "鸡",
           "zh_pinyin": "jī"
         },
-        "image": "images/animals/animals_010.png",
+        "image": {
+          "static": "images/animals/animals_010.png",
+          "use_video": true,
+          "video_in": "videos/animals/animals_010_in.mp4",
+          "video_on": "videos/animals/animals_010_on.mp4"
+        },
         "thumb": "images/animals/thumbs/animals_010_thumb.png",
         "video_in": false,
         "video_on": false,
