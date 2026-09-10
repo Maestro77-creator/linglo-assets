@@ -347,7 +347,9 @@
         },
         "image": {
           "static": "images/animals/animals_003.png",
-          "use_video": true
+          "use_video": true,
+          "video_in": "videos/animals/animals_003_in.mp4",
+          "video_on": "videos/animals/animals_003_on.mp4"
         },
         "thumb": "images/animals/thumbs/animals_003_thumb.png",
         "video_in": true,
