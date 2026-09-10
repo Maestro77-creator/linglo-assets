@@ -507,7 +507,12 @@
           "zh_char": "牛",
           "zh_pinyin": "niú"
         },
-        "image": "images/animals/animals_006.png",
+        "image": {
+          "static": "images/animals/animals_006.png",
+          "use_video": true,
+          "video_in": "videos/animals/animals_006_in.mp4",
+          "video_on": "videos/animals/animals_006_on.mp4"
+        },
         "thumb": "images/animals/thumbs/animals_006_thumb.png",
         "video_in": true,
         "video_on": true,
