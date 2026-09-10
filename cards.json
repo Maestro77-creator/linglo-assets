@@ -345,7 +345,10 @@
           "zh_char": "猪",
           "zh_pinyin": "zhū"
         },
-        "image": "images/animals/animals_003.png",
+        "image": {
+          "static": "images/animals/animals_003.png",
+          "use_video": true
+        },
         "thumb": "images/animals/thumbs/animals_003_thumb.png",
         "video_in": true,
         "video_on": true,
