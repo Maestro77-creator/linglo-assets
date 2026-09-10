@@ -232,12 +232,17 @@
         "is_free": true,
         "animation_type": "bounce",
         "labels": {
-          "pl": "Pies",
+          "pl": "PIES",
           "en": "Dog",
           "zh_char": "狗",
           "zh_pinyin": "gǒu"
         },
-        "image": "images/animals/animals_001.png",
+        "image": {
+          "static": "images/animals/animals_001.png",
+          "use_video": true,
+          "video_in": "videos/animals/animals_001_in.mp4",
+          "video_on": "videos/animals/animals_001_on.mp4"
+        },
         "thumb": "images/animals/thumbs/animals_001_thumb.png",
         "video_in": true,
         "video_on": true,
