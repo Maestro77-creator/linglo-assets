@@ -773,7 +773,12 @@
           "zh_char": "青蛙",
           "zh_pinyin": "qīngwā"
         },
-        "image": "images/animals/animals_011.png",
+        "image": {
+          "static": "images/animals/animals_011.png",
+          "use_video": true,
+          "video_in": "videos/animals/animals_011_in.mp4",
+          "video_on": "videos/animals/animals_011_on.mp4"
+        },
         "thumb": "images/animals/thumbs/animals_011_thumb.png",
         "video_in": false,
         "video_on": false,
